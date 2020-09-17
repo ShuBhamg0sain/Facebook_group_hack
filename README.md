@@ -24,8 +24,8 @@ Github.   : https://github.com/shubhamggosai
 Facebook  : https://m.facebook.com/shubham.gosain.980
 
 ### screenshot
-![ ]()
 
+![ ](https://github.com/shubhamggosai/Facebook_group_hack/blob/master/IMG_20200917_074939.jpg)
 
 
 ### installation
