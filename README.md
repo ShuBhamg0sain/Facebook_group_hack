@@ -44,5 +44,5 @@ Facebook  : https://m.facebook.com/shubham.gosain.980
 
  ls 
 
- python2 group-hack.py 
+ python2 Group-hack.py 
 
