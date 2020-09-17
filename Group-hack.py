@@ -45,13 +45,13 @@ print "%s /_/ /___,' %s[_./[ (_)(_|[_)%s | |(_](_.| \ %s" % (W, B, R, N)
 
 print " %s============================%s|%s======================%s " % (C, B, C, N)
 
-print " %sFB%s Group%s Hack %s12-09-2020%s (0:55)%s" % (W, B, R, C, Y, N)
+print " %sFacebook%s Group%s Hack %s12-09-2020%s (0:55)%s" % (W, B, R, C, Y, N)
 
-print " %sDevelop by: %sshubham%s$$$%s Mr.SHUBHAM%s" % (W, R, W, Y, N)                      
+print " %sDevelop by: %sshubhamggosai%s$$$%s Mr.SHUBHAM%s" % (W, R, W, Y, N)                      
 
 print " %sCode: %sPython%s" % (W, C, N)
 
-print " %sFB: %shttps://m.facebook.com/shubham.gosain.980w%s" % (W, B, N)
+print " %sFacebook: %shttps://m.facebook.com/shubham.gosain.980w%s" % (W, B, N)
 
 print " %sThis purpose is for educational only%s" % (C, N)
 
