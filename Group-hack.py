@@ -37,21 +37,21 @@ os.system("clear")
 
 print "%s ____ ___ %s" % (W, N)
 
-print "%s / __// o.) %s.__ %s . . . %s" % (W, B, R, N)
+print "%s / __// o.) %s.__ %s . . . %s" % (G, B, R, N)
 
-print "%s / _/ / o \ %s[ __._._ . .[_) %s|_| _. _.;_/ %s" % (W, B, R, N)
+print "%s / _/ / o \ %s[ __._._ . .[_) %s|_| _. _.;_/ %s" % (G, B, R, N)
 
-print "%s /_/ /___,' %s[_./[ (_)(_|[_)%s | |(_](_.| \ %s" % (W, B, R, N)
+print "%s /_/ /___,' %s[_./[ (_)(_|[_)%s | |(_](_.| \ %s" % (G, B, R, N)
 
 print " %s============================%s|%s======================%s " % (C, B, C, N)
 
-print " %sFacebook%s Group%s Hack %s12-09-2020%s (0:55)%s" % (W, B, R, C, Y, N)
+print " %sFacebook%s Group%s Hack %s12-09-2020%s (0:55)%s" % (G, B, R, C, Y, N)
 
-print " %sDevelop by: %sshubhamggosai%s$$$%s Mr.SHUBHAM%s" % (W, R, W, Y, N)                      
+print " %sDevelop by: %sshubhamggosai%s$$$%s Mr.SHUBHAM%s" % (G, R, G, Y, N)                      
 
-print " %sCode: %sPython%s" % (W, C, N)
+print " %sCode: %sPython%s" % (G, C, N)
 
-print " %sFacebook: %shttps://m.facebook.com/shubham.gosain.980w%s" % (W, B, N)
+print " %sFacebook: %shttps://m.facebook.com/shubham.gosain.980w%s" % (G, B, N)
 
 print " %sThis purpose is for educational only%s" % (C, N)
 
@@ -63,19 +63,19 @@ print "%s ===================================================%s" % (C, N)
 
 print
 
-print " %sLanguage/Bahasa:%s" % (W, N)
+print " %sLanguage/Bahasa:%s" % (G, N)
 
 print
 
-print "%s (%s01%s)%s -- %sIndonesia%s" % (B, C, B, Y, W, N)
+print "%s (%s01%s)%s -- %sIndonesia%s" % (B, C, B, Y, G, N)
 
-print "%s (%s02%s)%s -- %sEnglish%s" % (B, C, B, Y, W, N)
+print "%s (%s02%s)%s -- %sEnglish%s" % (B, C, B, Y, G, N)
 
-print "%s (%s03%s)%s -- %sTetum%s" % (B, C, B, Y, W, N)
+print "%s (%s03%s)%s -- %sTetum%s" % (B, C, B, Y, G, N)
 
 print
 
-bahasa = raw_input("%s[%s*%s] %sPilih/Choose/Hili:%s " % (C, Y, C, W, B))
+bahasa = raw_input("%s[%s*%s] %sPilih/Choose/Hili:%s " % (C, Y, C, G, B))
 
 
 try:
