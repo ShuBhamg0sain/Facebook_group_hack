@@ -37,7 +37,7 @@ os.system("clear")
 
 print "%s ____ ___ %s" % (W, N)
 
-print "%s.__ %s . . . %s" % (W, B, R, N)
+print "%s __ ) %s . . . %s" % (W, B, R, N)
 
 print "%s[ __._._ . .[_) %s|_| _. _.;_/ %s" % (W, B, R, N)
 
