@@ -1,6 +1,6 @@
 # Facebook_group_hack
 
- ### FIND...ME.
+### FIND...ME.
 
 
 What app:
@@ -24,9 +24,10 @@ Facebook  : https://m.facebook.com/shubham.gosain.980
 Telegram :
 https://t.me/ShuBham_g0sain
 
+
 ### screenshot
 
-![ ](https://github.com/shubhamggosai/Facebook_group_hack/blob/master/IMG_20200917_074939.jpg)
+![ ](https://github.com/ShuBhamg0sain/Facebook_group_hack/blob/master/IMG_20200917_074939.jpg)
 
 
 ### installation
@@ -39,7 +40,7 @@ https://t.me/ShuBham_g0sain
 
  pkg install python2
 
- git clone https://github.com/shubhamggosai/Facebook_group_hack
+ git clone https://github.com/ShuBhamg0sain/Facebook_group_hack
 
  cd Facebook_group_hack
 
