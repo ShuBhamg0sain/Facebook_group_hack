@@ -1,5 +1,7 @@
 # Facebook_group_hack
 
+# Note
+Find me....for usser name and password
 ### FIND...ME.
 
 
@@ -48,7 +50,4 @@ https://t.me/ShuBham_g0sain
 
  python2 Group-hack.py 
 
- Usser g0sain
-
- Pass ShuBham
 
