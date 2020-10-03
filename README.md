@@ -1,7 +1,7 @@
 # Facebook_group_hack
 
 # Note
-Find me....for usser name and password
+Find me....for username and password
 ### FIND...ME.
 
 
